@@ -126,6 +126,10 @@ h3 {
 	border: none;
 }
 
+.post-header {
+	margin-bottom: 10px;
+}
+
 #blog-logo img {
 	max-width: 484px;
 	height: auto;
